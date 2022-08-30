@@ -71,6 +71,14 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+_Setting:_ In the recycling station/room
+
+_Players:_ People who are confused about recycling 
+
+_Activity:_ The players show their recycling/trash to the sensor of the interactive device, and the device tell the player how to throw their recycling/trash through lights of different colors.
+
+_Goals:_ Make recycling faster and successful
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
@@ -85,9 +93,9 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
-
+The color showed on the screen show the recycling type of our detected recycling and which recycling bins should the each recycling throw in. I think storyboard can showed exactly what I assume the device work, and I can depict how the device behave in much more scenarios. On the other hand, it’s hard to act out and show every behavior I assume while some scenarios are hard to build in reality.
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
-
+The new ideas that occur to me are that I can use different colored lights to indicate the users to help the device to recognize the recycling better. A recycling may have different part of recycling, so we might separate them and show the recycling to our device respectively.
 
 ## Part C. Prototype the device
 
