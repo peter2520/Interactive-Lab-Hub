@@ -97,8 +97,11 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
 The color showed on the screen show the recycling type of our detected recycling and which recycling bins should the each recycling throw in. I think storyboard can showed exactly what I assume the device work, and I can depict how the device behave in much more scenarios. On the other hand, it’s hard to act out and show every behavior I assume while some scenarios are hard to build in reality.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
 The new ideas that occur to me are that I can use different colored lights to indicate the users to help the device to recognize the recycling better. A recycling may have different part of recycling, so we might separate them and show the recycling to our device respectively.
 
 ## Part C. Prototype the device
@@ -119,10 +122,14 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/setup.png)](https://youtube.com/shorts/uEX6nYRbGEo)
+
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/test.png)](https://youtube.com/shorts/1nGx4omL2bo)
 
 ## Part E. Costume the device
 
@@ -140,6 +147,12 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png)](https://youtube.com/shorts/3B4ziGFixR8)
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU)
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_3.png)](https://youtube.com/shorts/NZrWgEVi0Dg)
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
