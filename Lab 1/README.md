@@ -246,7 +246,7 @@ After brainstorming, I decide to extend idea of the recycling station. Thus, I d
 
 5. Display Yellow -> This item has more than one recycling type. Users need to separate them and sense again
 6. If successfully recycle the trash more than a weight, the device will give cash back. Users can enter their membership information or bank account information through the touch screen.
-7. After all done, The machine remind users to clean hands with sanitizer
+7. After all done, The device remind users to clean their hands with sanitizer
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part2.jpg)
 
