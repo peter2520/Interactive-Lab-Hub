@@ -220,7 +220,7 @@ _Goals:_ Make recycling faster and successful
 
 \*\***Include pictures of your storyboards here**\*\*
 
-Initial 7 storyboards
+Initial Brainstorming 7 storyboards
 1. Hiking Device: Detect users physical conditions during hiking, if emergency happens the device flash red.
 2. Recycling station: Sense the items and display the match color, so users can throw the trash to correct recycling bin.  
 3. Driver Detection: If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind
