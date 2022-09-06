@@ -83,9 +83,6 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
-![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part1.jpg)
-![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
-
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/3cff70b726cb61ed2979016596eb199d983065f1/Lab%201/Storyboard1.jpg)
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/3cff70b726cb61ed2979016596eb199d983065f1/Lab%201/Storyboard2.jpg)
 
@@ -222,6 +219,9 @@ _Goals:_ Make recycling faster and successful
 
 \*\***Include pictures of your storyboards here**\*\*
 
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part1.jpg)
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
+
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part2.jpg)
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part2.jpg)
 
@@ -276,14 +276,14 @@ If the device is built in a new recycling station, we can build more features. E
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-Storyboard (4)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png)](https://youtube.com/shorts/3B4ziGFixR8)
+Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bins
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_1_part2.png)](https://youtube.com/shorts/HEuE1MrjG6s)
 
-Storyboard (5)+(6)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU)
+Throw the recycling to the bins, show alarm if anyone throw recycling in wrong place (Red+Alarm)
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_2_part2.png)](https://youtube.com/shorts/Ndfd2ckYpXg)
 
-Storyboard (7)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_3.png)](https://youtube.com/shorts/NZrWgEVi0Dg)
+Flashing Yellow -> means this item has more than one recycling type. Users need to separate them and sense again.
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_3_part2.png)](https://youtube.com/shorts/dInppOFjti8)
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
