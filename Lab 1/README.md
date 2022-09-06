@@ -83,6 +83,9 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part1.jpg)
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
+
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/3cff70b726cb61ed2979016596eb199d983065f1/Lab%201/Storyboard1.jpg)
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/3cff70b726cb61ed2979016596eb199d983065f1/Lab%201/Storyboard2.jpg)
 
@@ -90,7 +93,9 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
+After presenting my ideas to my friend Hau Chu and Alan Hsieh, they thought the idea of recycling sensor and hiking device are the most creative ones. I think the recycling sensor is more useful for more people in daily life.
 
+Developing prototype devices with color lights are sufficient. However, adding sounds or vibration can make the interaction/instruction more explicit in further steps.
 
 ## Part B. Act out the Interaction
 
@@ -115,7 +120,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+It is easy to use in developing prototypes. Adding features like changing colors automatically by user setting may be more useful in various scenarios.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -142,20 +147,22 @@ Think about the setting of the device: is the environment a place where the devi
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/d98ee104c9d7490a278303887116bf41958637c6/Lab%201/Sketch.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-
+The device should be waterproof for wet garbage.
+The color from our device should match the color of each recycling bins respectively so it will be easier to throw the trash.
+If the device is built in a new recycling station, we can build more features. Ex. Open the specific trash can, so users won’t throw to the wrong recycling bins.
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
 Storyboard (4)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png) width=100](https://youtube.com/shorts/3B4ziGFixR8)
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png)](https://youtube.com/shorts/3B4ziGFixR8)
 
 Storyboard (5)+(6)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU){width="100"}
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU)
 
 Storyboard (7)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_3.png)](https://youtube.com/shorts/NZrWgEVi0Dg){width="100"}
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_3.png)](https://youtube.com/shorts/NZrWgEVi0Dg)
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
@@ -174,6 +181,21 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+Heuisu Judy Kim:
+This is a great idea! Thinking back to the framework and scenarios, how would this work with multiple items on the "sensor"? What would the color be and would the user understand which item the light was informing?
+
+Yi-Ru Pei:
+It is a great idea. It helps us categorize trash and recycle stuff easily. And the idea of the color signs pairing with the colors on trash cans is very clear and user-friendly to users of all ages. If the designer can change the start button to a sensor one would be better since sometimes people would not wash their hands before touching the button.
+
+Calvin Tirrell:
+Good storyboard and the videos follow the storyboard well! Consider giving the phone a costume so it looks less like a phone but good job!
+
+Samuel Willenson:
+I really like the idea of this device. I think the storyboard is clear and it has a good moral goal. Maybe you can implement an audio alert along with the red light when someone throws their trash into the wrong pin. This way they have no excuse as to why they ignored the red light, and can help shame them/peer pressure into righting their wrong if other people are around.
+
+My thoughts:
+I will add some sound affect and audio alert to the device to give more instructions to the users.
+Consider the sensor, I think apply deep learning model to multiple sensors may help the sensor to detect items
 
 ## Make it your own
 
@@ -183,3 +205,87 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+## Part A. Plan 
+
+
+\*\***Describe your setting, players, activity and goals here.**\*\*
+
+_Setting:_ In the recycling station/room
+
+_Players:_ People who are confused about recycling 
+
+_Activity:_ The players show their recycling/trash to the sensor of the interactive device, and the device tell the player how to throw their recycling/trash through lights of different colors.
+
+_Goals:_ Make recycling faster and successful
+
+
+\*\***Include pictures of your storyboards here**\*\*
+
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part2.jpg)
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part2.jpg)
+
+**Summarize feedback you got here.**
+After presenting my ideas to my friend Hau Chu and Alan Hsieh, they thought the idea of recycling sensor and hiking device are the most creative ones. I think the recycling sensor is more useful for more people in daily life.
+Developing prototype devices with color lights are sufficient. However, adding sounds or vibration can make the interaction/instruction more explicit in further steps.
+
+## Part B. Act out the Interaction
+
+Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+
+\*\***Are there things that seemed better on paper than acted out?**\*\*
+
+The color showed on the screen show the recycling type of our detected recycling and which recycling bins should the each recycling throw in. I think storyboard can showed exactly what I assume the device work, and I can depict how the device behave in much more scenarios. On the other hand, it’s hard to act out and show every behavior I assume while some scenarios are hard to build in reality.
+
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+The new ideas that occur to me are that I can use different colored lights to indicate the users to help the device to recognize the recycling better. A recycling may have different part of recycling, so we might separate them and show the recycling to our device respectively.
+
+## Part C. Prototype the device
+
+\*\***Give us feedback on Tinkerbelle.**\*\*
+It is easy to use in developing prototypes. Adding features like changing colors automatically by user setting may be more useful in various scenarios.
+
+## Part D. Wizard the device
+Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+
+\*\***Include your first attempts at recording the set-up video here.**\*\*
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/setup.png)](https://youtube.com/shorts/uEX6nYRbGEo)
+
+
+Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+\*\***Show the follow-up work here.**\*\*
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/test.png)](https://youtube.com/shorts/1nGx4omL2bo)
+
+## Part E. Costume the device
+
+
+\*\***Include sketches of what your devices might look like here.**\*\*
+
+![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Sketch_revised.jpg)
+
+\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+The device should be waterproof for wet garbage.
+The color from our device should match the color of each recycling bins respectively so it will be easier to throw the trash.
+If the device is built in a new recycling station, we can build more features. Ex. Open the hole of specific trash can, so users won’t throw to the wrong recycling bins.
+
+## Part F. Record
+
+\*\***Take a video of your prototyped interaction.**\*\*
+
+Storyboard (4)
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png)](https://youtube.com/shorts/3B4ziGFixR8)
+
+Storyboard (5)+(6)
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU)
+
+Storyboard (7)
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_3.png)](https://youtube.com/shorts/NZrWgEVi0Dg)
+
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+Thank Jonathan Tan and Alan Hsieh for helping me record the video.
