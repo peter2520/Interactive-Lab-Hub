@@ -155,6 +155,8 @@ If the device is built in a new recycling station, we can build more features. E
 Storyboard (4)
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png)](https://youtube.com/shorts/3B4ziGFixR8)
 
+<video src='https://youtube.com/shorts/3B4ziGFixR8' width=180/>
+ 
 Storyboard (5)+(6)
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU)
 
@@ -335,4 +337,4 @@ If anyone throw the recycling to a wrong bin, the device display red and sound t
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-Thank Jonathan Tan and Alan Hsieh for helping me record the video.
+Thank Jonathan Tan and Alan Hsieh for being the actor and assisting me record the video.
