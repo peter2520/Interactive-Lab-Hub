@@ -144,9 +144,13 @@ Think about the setting of the device: is the environment a place where the devi
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/d98ee104c9d7490a278303887116bf41958637c6/Lab%201/Sketch.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
 The device should be waterproof for wet garbage.
 The color from our device should match the color of each recycling bins respectively so it will be easier to throw the trash.
-If the device is built in a new recycling station, we can build more features. Ex. Open the specific trash can, so users won’t throw to the wrong recycling bins.
+If the device is built in a new recycling station, we can build more features. 
+
+Ex. After detecting the items, the recycling station opens the hole of specific trash bin, so users won’t throw to the wrong recycling bins.
+
 
 ## Part F. Record
 
@@ -282,7 +286,7 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/setup.png)](https://youtube.com/shorts/uEX6nYRbGEo)
 
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
