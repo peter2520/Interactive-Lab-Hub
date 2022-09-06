@@ -219,10 +219,32 @@ _Goals:_ Make recycling faster and successful
 
 \*\***Include pictures of your storyboards here**\*\*
 
+Initial 7 storyboards
+1. Hiking Device: Detect users physical conditions during hiking, if emergency happens the device flash red.
+2. Recycling station
+3. Driver Detection: If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind
+4. Working too long, remind users to take a rest drink a water
+
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part1.jpg)
+
+5. Extreme weather: Rainy, Gust, Snow -> flash red to remind the users
+6. Cooking Alarm: If the food is not ok -> flash blue, ok -> flash green, overcooked -> flash red
+7. Real time density detection in a room, station, mall. High Density -> red.
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
 
+
+After brainstorming, I decide to extend idea of the recycling station.
+
+1. Recycling/Trash on the floor, People take the Recycling/Trash to room and feel confused
+2. Instruction of how to use the device (Speaker, Screen)
+3. Show the recycling to the sensor of the device, The device show the color of the recycling which match to the correct recycling bins
+4. Throw the recycling to the bins, show message whether if anyone throw recycling in right place (Ok, Red+Alarm)
+
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part2.jpg)
+
+5. Yellow: means this item has more than one recycling type. Users need to separate them and sense again
+6. If successfully recycle the trash more than a weight, give cash back 
+7. After all done, The machine remind users to clean hands with sanitizer
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part2.jpg)
 
 **Summarize feedback you got here.**
@@ -270,6 +292,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Sketch_revised.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
 The device should be waterproof for wet garbage.
 The color from our device should match the color of each recycling bins respectively so it will be easier to throw the trash.
 If the device is built in a new recycling station, we can build more features. Ex. Open the hole of specific trash can, so users won’t throw to the wrong recycling bins.
