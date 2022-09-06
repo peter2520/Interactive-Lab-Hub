@@ -244,9 +244,11 @@ The new ideas that occur to me are that I can use different colored lights to in
 ## Part C. Prototype the device
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
 It is easy to use in developing prototypes. Adding features like changing colors automatically by user setting may be more useful in various scenarios.
 
 ## Part D. Wizard the device
+
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
@@ -276,14 +278,17 @@ If the device is built in a new recycling station, we can build more features. E
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bins
+Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bins.
+
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_1_part2.png)](https://youtube.com/shorts/HEuE1MrjG6s)
 
-Throw the recycling to the bins, show alarm if anyone throw recycling in wrong place (Red+Alarm)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_2_part2.png)](https://youtube.com/shorts/Ndfd2ckYpXg)
+Throw the recycling to the bins, show alarm if anyone throw recycling in wrong place (Red+Alarm).
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_2_part2.png)](https://youtube.com/shorts/dInppOFjti8)
 
 Flashing Yellow -> means this item has more than one recycling type. Users need to separate them and sense again.
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_3_part2.png)](https://youtube.com/shorts/dInppOFjti8)
+
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_3_part2.png)](https://youtube.com/shorts/Ndfd2ckYpXg)
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
