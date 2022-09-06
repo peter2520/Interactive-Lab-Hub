@@ -209,43 +209,45 @@ Do last week’s assignment again, but this time:
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-_Setting:_ In the recycling station/room
+_Setting:_ In the recycling station/room.
 
-_Players:_ People who are confused about recycling 
+_Players:_ People who are confused about recycling.
 
 _Activity:_ The players show their recycling/trash to the sensor of the interactive device, and the device tell the player how to throw their recycling/trash through lights of different colors.
 
-_Goals:_ Make recycling faster and successful
+_Goals:_ Make recycling faster and successful.
 
 
 \*\***Include pictures of your storyboards here**\*\*
 
 Initial Brainstorming 7 storyboards
-1. Hiking Device: Detect users physical conditions during hiking, if emergency happens the device flash red.
+1. Hiking Device: Detect users physical conditions during hiking, if emergency happens the device flash red which will let his/her friends know.
 2. Recycling station: Sense the items and display the match color, so users can throw the trash to correct recycling bin.  
-3. Driver Detection: If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind
-4. Working too long, remind users to take a rest drink a water
+3. Driver Detection: If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind to stay away from this car.
+4. Work Detection: Working for a long period, remind users to take a rest/take a walk/drink a water.
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part1.jpg)
 
-5. Extreme weather: Rainy, Gust, Snow -> flash red to remind the users
-6. Cooking Alarm: If the food is not ok -> flash blue, ok -> flash green, overcooked -> flash red
-7. Real time density detection in a room, station, mall. High Density -> red.
+5. Display color to remind users the extreme weather occurs: Cold -> Blue. Hot -> Red. Storm -> Black.
+6. Cooking Alarm: If the food is not ok -> display blue, ok -> display green, overcooked -> display red
+7. Real time density detection in a room, station, mall. Low density -> green. Medium density -> yellow. High Density -> red. 
+
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
 
 
-After brainstorming, I decide to extend idea of the recycling station. Thus, I draw 7 storyboards to recycling station.
+After brainstorming, I decide to extend idea of the recycling station. Thus, I draw 7 storyboards for my recycling station idea.
 
-1. Recycling/Trash on the floor, People take the Recycling/Trash to room and feel confused
-2. Instruction of how to use the device (Speaker, Screen)
-3. Show the recycling to the sensor of the device, The device show the color of the recycling which match to the correct recycling bins
-4. Throw the recycling to the bins, show message whether if anyone throw recycling in right place (Ok, Red+Alarm)
+1. Recycling/Trash on the floor, people feel confused about doing recycling.
+2. The device will show instruction of how to use the device from the speaker and the touch screen.
+3. Show the recycling to the sensor of the device, The device will display the color of the recycling which match to the correct recycling bin.
+4. If anyone throw the recycling to the wrong bin, the device will display red and sound the alarm. If anyone throw the recycling to the correct bin, the device will display "Great" and make a "cheerful" sound effect.
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part2.jpg)
 
-5. Yellow: means this item has more than one recycling type. Users need to separate them and sense again
-6. If successfully recycle the trash more than a weight, give cash back 
+5. Display Yellow -> This item has more than one recycling type. Users need to separate them and sense again
+6. If successfully recycle the trash more than a weight, the device will give cash back. Users can enter their membership information or bank account information through the touch screen.
 7. After all done, The machine remind users to clean hands with sanitizer
+
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part2.jpg)
 
 **Summarize feedback you got here.**
@@ -318,15 +320,15 @@ Ex. After detecting the items, the recycling station opens the hole of specific 
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bin(green).
+Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bin(green). (Storyboard (3))
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_1_part2.png)](https://youtube.com/shorts/HEuE1MrjG6s)
 
-Display Yellow -> This item has more than one recycling type. Users need to separate them and sense again.
+Display Yellow -> This item has more than one recycling type. Users need to separate them and sense again. (Storyboard (5))
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_2_part2.png)](https://youtube.com/shorts/Ndfd2ckYpXg)
 
-If anyone throw the recycling to a wrong bin, the device display red and make an alarm. This feature may give peer pressure to them if other people are around.
+If anyone throw the recycling to a wrong bin, the device display red and sound the alarm. This feature may give peer pressure to them if other people are around. (Storyboard (4))
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_3_part2.png)](https://youtube.com/shorts/dInppOFjti8)
 
