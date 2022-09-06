@@ -225,16 +225,16 @@ _Goals:_ Make recycling faster and successful.
 \*\***Include pictures of your storyboards here**\*\*
 
 Initial Brainstorming 7 storyboards
-1. Hiking Device: Detect users physical conditions during hiking, if emergency happens the device flash red which will let his/her friends know.
-2. Recycling station: Sense the items and display the match color, so users can throw the trash to correct recycling bin.  
-3. Driver Detection: If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind to stay away from this car.
-4. Work Detection: Working for a long period, remind users to take a rest/take a walk/drink a water.
+1. **Hiking Device:** Detect users physical conditions during hiking, if emergency happens the device flash red which will let his/her friends know.
+2. **Recycling station:** Sense the items and display the match color, so users can throw the trash to correct recycling bin.  
+3. **Driver Detection:** If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind to stay away from this car.
+4. **Work Detection:** Working for a long period, remind users to take a rest/take a walk/drink a water.
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard1_part1.jpg)
 
-5. Display color to remind users the extreme weather occurs: Cold -> Blue. Hot -> Red. Storm -> Black.
-6. Cooking Alarm: If the food is not ok -> display blue, ok -> display green, overcooked -> display red
-7. Real time density detection in a room, station, mall. Low density -> green. Medium density -> yellow. High Density -> red. 
+5. **Weather Detection:** Display color to remind users the extreme weather occurs: Cold -> Blue. Hot -> Red. Storm -> Black.
+6. **Cooking Alarm:** If the food is not ok -> display blue, ok -> display green, overcooked -> display red
+7. **Real time density detection:** Detect the density in a room, station, mall. Low density -> green. Medium density -> yellow. High Density -> red. 
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
 
