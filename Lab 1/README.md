@@ -221,7 +221,7 @@ _Goals:_ Make recycling faster and successful
 
 Initial 7 storyboards
 1. Hiking Device: Detect users physical conditions during hiking, if emergency happens the device flash red.
-2. Recycling station
+2. Recycling station: Sense the items and display the match color, so users can throw the trash to correct recycling bin.  
 3. Driver Detection: If the device detect the driver is sleepy or drunk the device will flash red and remind the car behind
 4. Working too long, remind users to take a rest drink a water
 
@@ -233,7 +233,7 @@ Initial 7 storyboards
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part1.jpg)
 
 
-After brainstorming, I decide to extend idea of the recycling station.
+After brainstorming, I decide to extend idea of the recycling station. Thus, I draw 7 storyboards to recycling station.
 
 1. Recycling/Trash on the floor, People take the Recycling/Trash to room and feel confused
 2. Instruction of how to use the device (Speaker, Screen)
@@ -248,6 +248,7 @@ After brainstorming, I decide to extend idea of the recycling station.
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Storyboard2_part2.jpg)
 
 **Summarize feedback you got here.**
+
 After presenting my ideas to my friend Hau Chu and Alan Hsieh, they thought the idea of recycling sensor and hiking device are the most creative ones. I think the recycling sensor is more useful for more people in daily life.
 Developing prototype devices with color lights are sufficient. However, adding sounds or vibration can make the interaction/instruction more explicit in further steps.
 
@@ -288,6 +289,14 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+
+All devices are waterproof since the garbage may be wet.
+
+Sensor: Built-in Deep learning model, so the items can be detected correctly.
+Speaker: Give instructions to the users.
+Interactive screen: Display the color of sense items, so users know throw the trash to match bins. Display other information (Ex. "The trash bin is full!" "Total cash back" "Pleae wash your hands.")
+Touch screen: Press button to sense the items. Enter bank account information for cash back service. 
+Trash bins: Open the hole of match trash bins, so users can only throw the trash to that bins.
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Sketch_revised.jpg)
 
