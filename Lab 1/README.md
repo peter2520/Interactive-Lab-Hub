@@ -153,9 +153,11 @@ If the device is built in a new recycling station, we can build more features. E
 \*\***Take a video of your prototyped interaction.**\*\*
 
 Storyboard (4)
-[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png | width=100)](https://youtube.com/shorts/3B4ziGFixR8)
+[![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png)](https://youtube.com/shorts/3B4ziGFixR8)
 
- 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_1.png" width="200">(https://youtube.com/shorts/3B4ziGFixR8)
+
+
 Storyboard (5)+(6)
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/Fall2022/Lab%201/video_2.png)](https://youtube.com/shorts/vzk2bl4GZhU)
 
