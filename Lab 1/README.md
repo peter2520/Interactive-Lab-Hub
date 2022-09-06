@@ -320,7 +320,7 @@ Show the recycling to the sensor of the device, The device show the color(green)
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_1_part2.png)](https://youtube.com/shorts/HEuE1MrjG6s)
 
-Flashing Yellow -> means this item has more than one recycling type. Users need to separate them and sense again.
+Flashing Yellow -> This item has more than one recycling type. Users need to separate them and sense again.
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_2_part2.png)](https://youtube.com/shorts/Ndfd2ckYpXg)
 
