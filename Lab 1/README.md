@@ -193,7 +193,7 @@ I really like the idea of this device. I think the storyboard is clear and it ha
 
 My thoughts:
 I will add some sound affect and audio alert to the device to give more instructions to the users.
-Consider the sensor, I think apply deep learning model to multiple sensors may help the sensor to detect items
+Consider the sensor, I think integrate deep learning model to multiple sensors may help the sensor detect items.
 
 ## Make it your own
 
