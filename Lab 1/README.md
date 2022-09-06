@@ -294,10 +294,15 @@ Now, hange the goal within the same setting, and update the interaction with the
 All devices are waterproof since the garbage may be wet.
 
 Sensor: Built-in Deep learning model, so the items can be detected correctly.
+
 Speaker: Give instructions to the users.
-Interactive screen: Display the color of sense items, so users know throw the trash to match bins. Display other information (Ex. "The trash bin is full!" "Total cash back" "Pleae wash your hands.")
+
+Interactive screen: Display the color of sense items, so users know throw the trash to match bins. Display other 
+information (Ex. "The trash bin is full!" "Total cash back" "Pleae wash your hands.")
+
 Touch screen: Press button to sense the items. Enter bank account information for cash back service. 
-Trash bins: Open the hole of match trash bins, so users can only throw the trash to that bins.
+
+Trash bins: Open the hole of match trash bins, so users can only throw the trash to that specific bin.
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Sketch_revised.jpg)
 
