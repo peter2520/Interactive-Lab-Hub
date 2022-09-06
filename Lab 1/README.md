@@ -302,7 +302,7 @@ information (Ex. "The trash bin is full!" "Total cash back" "Pleae wash your han
 
 Touch screen: Press button to sense the items. Enter bank account information for cash back service. 
 
-Trash bins: Open the hole of match trash bins, so users can only throw the trash to that specific bin.
+Trash bins: Open the hole of match trash bin, so users can only throw the trash to that specific bin.
 
 ![plot](https://github.com/peter2520/Interactive-Lab-Hub/blob/b146a29bb6d4230087c7e860679be8513b9335fb/Lab%201/Sketch_revised.jpg)
 
@@ -310,21 +310,23 @@ Trash bins: Open the hole of match trash bins, so users can only throw the trash
 
 The device should be waterproof for wet garbage.
 The color from our device should match the color of each recycling bins respectively so it will be easier to throw the trash.
-If the device is built in a new recycling station, we can build more features. Ex. Open the hole of specific trash can, so users won’t throw to the wrong recycling bins.
+If the device is built in a new recycling station, we can build more features. 
+
+Ex. After detecting the items, the recycling station opens the hole of specific trash bin, so users won’t throw to the wrong recycling bins.
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bins(green).
+Show the recycling to the sensor of the device, The device show the color(green) of the recycling(Glass) which match to the correct recycling bin(green).
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_1_part2.png)](https://youtube.com/shorts/HEuE1MrjG6s)
 
-Flashing Yellow -> This item has more than one recycling type. Users need to separate them and sense again.
+Display Yellow -> This item has more than one recycling type. Users need to separate them and sense again.
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_2_part2.png)](https://youtube.com/shorts/Ndfd2ckYpXg)
 
-Throw the recycling to the bins, show alarm if anyone throw recycling in wrong place (Red+Alarm).
+If anyone throw the recycling to a wrong bin, the device display red and make an alarm. This feature may give peer pressure to them if other people are around.
 
 [![Watch the video](https://github.com/peter2520/Interactive-Lab-Hub/blob/6284f5c1af0198ae9ed7ea690e6e33eb5bbcb475/Lab%201/video_3_part2.png)](https://youtube.com/shorts/dInppOFjti8)
 
