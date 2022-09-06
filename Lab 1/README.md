@@ -178,6 +178,7 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+
 Heuisu Judy Kim:
 This is a great idea! Thinking back to the framework and scenarios, how would this work with multiple items on the "sensor"? What would the color be and would the user understand which item the light was informing?
 
