@@ -150,7 +150,6 @@ while True:
         clock_color = "#"+''.join([random.choice('0123456789ABCDEF') for i in range(6)])
     if blinking % 3 == 2:
         clock_color = "#"+''.join([random.choice('0123456789ABCDEF') for i in range(6)])
-        print(scale_size)
         font2_scale = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", scale_size)
         draw.text((x, y), clock, font=font2_scale, fill=clock_color)
         scale_size += 5
