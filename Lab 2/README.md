@@ -208,13 +208,22 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
-The Interface of my PiClock.
+The Initial Interface of my PiClock:
+* Location
+* Day of the week + Date
+* Clock (12/24 hour clock)
+* Greeting for current time
 
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_1.jpg" height="500" />
 
+Features:
+* Change 12/24 hour clock
+* Change time zone
+* Change the color of the clock
+* Change the font size of the clock
+
 Video of my PiClock
 [![Lab2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1eT179bJaf4OruZQ4nd5QfeboVACAihhw/view?usp=sharing)
-
 
 
 ## Part G. 
