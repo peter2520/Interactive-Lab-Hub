@@ -188,7 +188,7 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2_sketch.jpg" height="400" />
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2_sketch.jpg" height="500" />
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
@@ -208,10 +208,12 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
-The Interface of my clock.
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2.jpg" height="400" />
+The Interface of my PiClock.
 
-<!-- [![Lab2_Video](./Lab2Vid.png)](https://drive.google.com/file/d/1eT179bJaf4OruZQ4nd5QfeboVACAihhw/view?usp=sharing) -->
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_1.jpg" height="500" />
+
+Video of my PiClock
+[![Lab2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1eT179bJaf4OruZQ4nd5QfeboVACAihhw/view?usp=sharing)
 
 
 
