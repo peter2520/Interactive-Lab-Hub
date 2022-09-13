@@ -188,7 +188,7 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2_sketch.jpg" height="200" />
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2_sketch.jpg" height="400" />
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
@@ -206,9 +206,14 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2.jpg" height="200" />
-
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+The Interface of my clock.
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2.jpg" height="400" />
+
+<!-- [![Lab2_Video](./Lab2Vid.png)](https://drive.google.com/file/d/1eT179bJaf4OruZQ4nd5QfeboVACAihhw/view?usp=sharing) -->
+
+
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
