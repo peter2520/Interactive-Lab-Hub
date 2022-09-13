@@ -225,7 +225,7 @@ Features:
 * Press Button A + B again: Change the font size of the clock
 
 Video of my PiClock
-[![Lab2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1eT179bJaf4OruZQ4nd5QfeboVACAihhw/view?usp=sharing)
+[![Lab2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1FmWrWMvnOEPFGZV3aUD0ycQlsFoZvrIx/view?usp=sharing)
 
 
 ## Part G. 
