@@ -141,7 +141,6 @@ while True:
     y = top
     draw.text((x, y), city, font=font1, fill="#87ceeb")
 
-    # y += font1.getsize(date)[1] + 5
     draw.text((x + 110, y), date, font=font1, fill="#FFFF00")
 
     y += font1.getsize(date)[1] + 20
