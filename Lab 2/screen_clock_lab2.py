@@ -72,8 +72,7 @@ buttonB = digitalio.DigitalInOut(board.D24)
 buttonA.switch_to_input()
 buttonB.switch_to_input()
 
-cmd = "hostname -I | cut -d' ' -f1"
-IP = subprocess.check_output(cmd, shell=True).decode("utf-8")
+
 geoip = geocoder.ip("me")
 city = geoip.city
 press_A = 0
@@ -88,18 +87,13 @@ while True:
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     # TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py
-
-    
-
     # clock = time.strftime("%H:%M:%S")
 
     if buttonA.value and not buttonB.value :  # just button B pressed
-        # print('in B')
         press_B += 1
     
     if press_B % 5 == 0:
         city = geoip.city
-        # clock = time.strftime("%p%I:%M:%S")
         localtime = datetime.now()
         date = localtime.strftime("%a %m/%d/%Y")
     elif press_B % 5 == 1:
@@ -107,29 +101,24 @@ while True:
         timezone = pytz.timezone('Asia/Taipei')
         localtime = datetime.now(timezone)
         date = localtime.strftime("%a %m/%d/%Y")
-        # clock = localtime.strftime("%p%I:%M:%S")
     elif press_B % 5 == 2:
         city = "Tokyo"
         timezone = pytz.timezone('Asia/Tokyo')
         localtime = datetime.now(timezone)
         date = localtime.strftime("%a %m/%d/%Y")
-        # clock = localtime.strftime("%p%I:%M:%S")
     elif press_B % 5 == 3:
         city = "London"
         timezone = pytz.timezone('Europe/London')
         localtime = datetime.now(timezone)
         date = localtime.strftime("%a %m/%d/%Y")
-        # clock = localtime.strftime("%p%I:%M:%S")
     elif press_B % 5 == 4:
         city = "Los Angeles"
         timezone = pytz.timezone('America/Los_Angeles')
         localtime = datetime.now(timezone)
         date = localtime.strftime("%a %m/%d/%Y")
-        # clock = localtime.strftime("%p%I:%M:%S") 
 
 
     if not buttonA.value and buttonB.value:  # just button A pressed
-        # print('in A')
         press_A += 1
     if press_A % 2 == 1:
         clock = localtime.strftime("%p%I:%M:%S")
@@ -138,7 +127,6 @@ while True:
 
     if not buttonA.value and not buttonB.value:  # Button A and button B both pressed
         blinking += 1
-
 
     if localtime.hour <= 12:
         greetings = "Good Morning!"
@@ -158,21 +146,17 @@ while True:
 
     y += font1.getsize(date)[1] + 20
 
+    # if button A and button B both pressed change font color and size
     if blinking % 3 == 1:
         clock_color = "#"+''.join([random.choice('0123456789ABCDEF') for i in range(6)])
-        print("inAB_1")
-    
-    
     if blinking % 3 == 2:
         clock_color = "#"+''.join([random.choice('0123456789ABCDEF') for i in range(6)])
-        # print("inAB_2")
         print(scale_size)
         font2_scale = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", scale_size)
         draw.text((x, y), clock, font=font2_scale, fill=clock_color)
         scale_size += 5
         if scale_size > 40:
             scale_size = 10
-
     else:
         draw.text((x, y), clock, font=font2, fill=clock_color)
 

@@ -188,9 +188,11 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f01e2655cee98bea7d59de753b3e376ac81eb432/Lab%202/lab2_sketch.jpg" height="500" />
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f8abbd0e74a582802754f2142f5191dd906a3f1e/Lab%202/lab2_sketch_1.jpg" height="500" />
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+
+[**Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/f8abbd0e74a582802754f2142f5191dd906a3f1e/Lab%202/screen_clock_lab2.py)
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
@@ -217,10 +219,10 @@ The Initial Interface of my PiClock:
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_1.jpg" height="500" />
 
 Features:
-* Change 12/24 hour clock
-* Change time zone
-* Change the color of the clock
-* Change the font size of the clock
+* Press Button A: Change 12/24 hour clock
+* Press Button B: Change time zone
+* Press Button A + B: Change the color of the clock
+* Press Button A + B again: Change the font size of the clock
 
 Video of my PiClock
 [![Lab2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1eT179bJaf4OruZQ4nd5QfeboVACAihhw/view?usp=sharing)
@@ -229,6 +231,7 @@ Video of my PiClock
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f8abbd0e74a582802754f2142f5191dd906a3f1e/Lab%202/lab2_sketch_2.jpg" height="500" />
 
 # Prep for Part 2
 
