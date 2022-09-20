@@ -191,13 +191,14 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
+
 My PiClock is designed to be used on smart watch or smart phone, people can use it to check the time/date of different location and make some notification on schedule time.
 
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f8abbd0e74a582802754f2142f5191dd906a3f1e/Lab%202/lab2_sketch_1.jpg" height="500" />
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
-[**Link to My Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/f8abbd0e74a582802754f2142f5191dd906a3f1e/Lab%202/screen_clock_lab2.py)
+[**Link to My Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/1499b7a689d4c1edf14c82409ca8ef69d8ad1653/Lab%202/screen_clock_lab2.py)
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
@@ -237,6 +238,7 @@ Video of my PiClock
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
 Initial brainstorm for Part 2
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/f8abbd0e74a582802754f2142f5191dd906a3f1e/Lab%202/lab2_sketch_2.jpg" height="500" />
 
 After brainstorming again, I think the idea of add more notification for specific time is quite similar to Part 1. Besides, while testing the new feature about scrolling the clock, I found that the result wasn't that good. The clock couldn't move smoothly. Thus, I decide to build new features of showing a image of the current clock location. 
@@ -248,7 +250,8 @@ After brainstorming again, I think the idea of add more notification for specifi
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
-* Feedback
+
+## Feedback
 
 Yi-Ru Pei: This is the cutest clock I have ever seen before. My favorite feature is time-zone switching. Since my family and I live in different countries, we need to calculate the time zone every time before we make a call. If I have that clock, all I need is to click a button to switch the time zone. Furthermore, the color-changing feature is entertaining. In a nutshell, I love your design so much.
 
@@ -265,12 +268,13 @@ Modify the code from last week's lab to make a new visual interface for your new
 
 Add Features in Part 2:
 * Press Button A + B again: Show image of the location of current clock
-Image source
-New York: https://worldstrides.com/blog/2017/10/12-interesting-facts-about-new-york-city/
-Taipei: https://travelearth195.com/taipei-101-observatory/
-Tokyo: https://www.japan-guide.com/e/e3009.html
-London: https://www.london.ac.uk/news-opinion/london-connection
-Los Angeles: https://www.getyourguide.com/los-angeles-l179/day-trips-tc172/
+
+Image source:
+* New York: https://worldstrides.com/blog/2017/10/12-interesting-facts-about-new-york-city/
+* Taipei: https://travelearth195.com/taipei-101-observatory/
+* Tokyo: https://www.japan-guide.com/e/e3009.html
+* London: https://www.london.ac.uk/news-opinion/london-connection
+* Los Angeles: https://www.getyourguide.com/los-angeles-l179/day-trips-tc172/
 
 
 Video of my PiClock - Part2
