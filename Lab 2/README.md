@@ -228,6 +228,19 @@ Features:
 Video of my PiClock
 [![Lab2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1FmWrWMvnOEPFGZV3aUD0ycQlsFoZvrIx/view?usp=sharing)
 
+Features Part 2:
+* Press Button A + B again: Show image of the location of current clock
+Image source
+New York: https://worldstrides.com/blog/2017/10/12-interesting-facts-about-new-york-city/
+Taipei: https://travelearth195.com/taipei-101-observatory/
+Tokyo: https://www.japan-guide.com/e/e3009.html
+London: https://www.london.ac.uk/news-opinion/london-connection
+Los Angeles: https://www.getyourguide.com/los-angeles-l179/day-trips-tc172/
+
+
+Video of my PiClock - Part2
+[![Lab2_Part2_Video](https://github.com/peter2520/Interactive-Lab-Hub/blob/ef2c27ec0a70b159fb2a0a9c02518609e51c8000/Lab%202/lab2_2.jpg)](https://drive.google.com/file/d/1AzZpqdIk3fkW4CNRFvL_Wyc-9EKQD2dw/view?usp=sharing)
+
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.

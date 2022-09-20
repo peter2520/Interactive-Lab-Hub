@@ -62,6 +62,36 @@ font1 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 15
 font2 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 40)
 font3 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 28)
 
+# input Image
+image_r = Image.open("red.jpg")
+image_newyork = Image.open("newyork.jpg")
+image_taipei = Image.open("taipei.jpg")
+image_tokyo = Image.open("tokyo.jpg")
+image_london = Image.open("london.jpg")
+image_los_angeles = Image.open("los_angeles.jpg")
+
+# Scale the image to the smaller screen dimension
+image_ratio = image.width / image.height
+screen_ratio = width / height
+if screen_ratio < image_ratio:
+    scaled_width = image.width * height // image.height
+    scaled_height = height
+else:
+    scaled_width = width
+    scaled_height = image.height * width // image.width
+image_r = image_r.resize((scaled_width, scaled_height), Image.BICUBIC)
+image_newyork = image_newyork.resize((scaled_width, scaled_height), Image.BICUBIC)
+image_taipei = image_taipei.resize((scaled_width, scaled_height), Image.BICUBIC)
+image_tokyo = image_tokyo.resize((scaled_width, scaled_height), Image.BICUBIC)
+image_london = image_london.resize((scaled_width, scaled_height), Image.BICUBIC)
+image_los_angeles = image_los_angeles.resize((scaled_width, scaled_height), Image.BICUBIC)
+
+# Crop and center the image
+x = scaled_width // 2 - width // 2
+y = scaled_height // 2 - height // 2
+image_r = image_r.crop((x, y, x + width, y + height))
+
+
 # Turn on the backlight
 backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
@@ -77,6 +107,7 @@ geoip = geocoder.ip("me")
 city = geoip.city
 press_A = 0
 press_B = 0
+# longer_press = 0
 
 clock_color = "#FFFFFF"
 blinking = 0
@@ -85,7 +116,7 @@ scale_size = 10
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
-
+    longer_press = 0
     # TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py
     # clock = time.strftime("%H:%M:%S")
 
@@ -120,6 +151,7 @@ while True:
 
     if not buttonA.value and buttonB.value:  # just button A pressed
         press_A += 1
+    
     if press_A % 2 == 1:
         clock = localtime.strftime("%p%I:%M:%S")
     elif press_A % 2 == 0:
@@ -128,13 +160,13 @@ while True:
     if not buttonA.value and not buttonB.value:  # Button A and button B both pressed
         blinking += 1
 
-    if localtime.hour <= 12:
+    if localtime.hour < 12:
         greetings = "Good Morning!"
         color = "#f6be00"
-    elif 12 < localtime.hour <= 18:
+    elif 12 <= localtime.hour < 18:
         greetings = "Good Afternoon!"
         color = "#ff8200"
-    elif 18 < localtime.hour <= 24:
+    elif 18 <= localtime.hour <= 24:
         greetings = "Good Night!"
         color = "#082468"
 
@@ -146,23 +178,38 @@ while True:
     y += font1.getsize(date)[1] + 20
 
     # if button A and button B both pressed change font color and size
-    if blinking % 3 == 1:
+    if blinking % 4 == 1:
         clock_color = "#"+''.join([random.choice('0123456789ABCDEF') for i in range(6)])
-    if blinking % 3 == 2:
+        draw.text((x, y), clock, font=font2, fill=clock_color)
+    elif blinking % 4 == 2:
         clock_color = "#"+''.join([random.choice('0123456789ABCDEF') for i in range(6)])
         font2_scale = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", scale_size)
         draw.text((x, y), clock, font=font2_scale, fill=clock_color)
         scale_size += 5
         if scale_size > 40:
             scale_size = 10
-    else:
+
+    elif blinking % 4 == 3:
+        if city == "New York City":
+            disp.image(image_newyork, rotation)
+        elif city == "Taipei":
+            disp.image(image_taipei, rotation)
+        elif city == "Tokyo":
+            disp.image(image_tokyo, rotation)
+        elif city == "London":
+            disp.image(image_london, rotation)
+        elif city == "Los Angeles":
+            disp.image(image_los_angeles, rotation)
+
+    elif blinking % 4 == 0:
         draw.text((x, y), clock, font=font2, fill=clock_color)
 
     y += font1.getsize(date)[1] + 45
     draw.text((x, y), greetings, font=font3, fill=color)
 
     # Display image.
-    disp.image(image, rotation)
+    if blinking % 4 != 3:
+        disp.image(image, rotation)
     time.sleep(0.1)
 
 
