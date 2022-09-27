@@ -116,6 +116,10 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-1.jpg" width="500px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-2.jpg" width="500px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-3.jpg" width="500px">
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
@@ -161,7 +165,7 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
 ## Prototype your system
-s
+
 The system should:
 * use the Raspberry Pi 
 * use one or more sensors
