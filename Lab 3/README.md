@@ -116,34 +116,50 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-1.jpg" width="500px">
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-2.jpg" width="500px">
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-3.jpg" width="500px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-1.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-2.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-3.jpg" width="700px">
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
 
 We want to design a Roosevelt Island tourist guide, Rosy, for tourists to know more about this beautiful place. 
+
 User: Wow, Roosevelt Island seems like an excellent place to visit. I want to ask Rosy to tell me more about this place. Hey, Rosy, how to get to Roosevelt Island?
+
 Rosy: You can get there by Ferry, Subway, Tramway, or Self-drive. Which one do you prefer?
+
 User: I prefer to get there by Tramway.
+
 Rosy: Tramway is a good choice. Remember to bring a Metro card with you. Let me tell you some good places to visit on this island. What do you want to do?
+
 User: I would like to walk around and grab some food. 
+
 Rosy: Frankin D. Roosevelt Four Freedoms Park is on the southern tip of the island, its name inspired by his famous 1941 speech. The park was also the last work of Louis I. Kahn, a renowned 20th-century architect...Oh, it seems like this option is not that appealing to you. How about the Blackwell Island Lighthouse?
+
 User: Wow, It sounds great!! Show me more!!
+
 Rosy: The Blackwell Island Lighthouse is on the other end of the island; at the most northern stretch is a 50-foot-tall lighthouse built by prisoners in 1872. It's now on the National Register of Historic Places and is surrounded by a park with fantastic panoramic views. And you can visit the Cornell Tech campus as well. 
+
 User: Great! How about some good place to eat?
+
 Rosy: Granny Annies's is an Irish bar and kitchen, and Bread and Butter is a good brunch place. 
+
 User: Great!! Thanks for your suggestion!
+
 Rosy: My pleasure. Please rate this service from one to ten. 
+
 User: Eight.
+
 Rosy: Thanks for your rating! Hope you have a wonderful trip!
 
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
+
+[**Link to Our Video**](https://youtu.be/EX9ffuLqr34)
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
