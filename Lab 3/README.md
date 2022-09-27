@@ -1,5 +1,9 @@
 # Chatterboxes
 **NAMES OF COLLABORATORS HERE**
+
+Collaborated with: Yi-Ru Pei (yp329@cornell.edu) The video was filmed by Jonathan Tan(jmt362@cornell.edu)
+First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech; Yi-Ru was responsible for drawing the storyboards.
+
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -113,11 +117,30 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 \*\***Please describe and document your process.**\*\*
 
+We want to design a Roosevelt Island tourist guide, Rosy, for tourists to know more about this beautiful place. 
+User: Wow, Roosevelt Island seems like an excellent place to visit. I want to ask Rosy to tell me more about this place. Hey, Rosy, how to get to Roosevelt Island?
+Rosy: You can get there by Ferry, Subway, Tramway, or Self-drive. Which one do you prefer?
+User: I prefer to get there by Tramway.
+Rosy: Tramway is a good choice. Remember to bring a Metro card with you. Let me tell you some good places to visit on this island. What do you want to do?
+User: I would like to walk around and grab some food. 
+Rosy: Frankin D. Roosevelt Four Freedoms Park is on the southern tip of the island, its name inspired by his famous 1941 speech. The park was also the last work of Louis I. Kahn, a renowned 20th-century architect...Oh, it seems like this option is not that appealing to you. How about the Blackwell Island Lighthouse?
+User: Wow, It sounds great!! Show me more!!
+Rosy: The Blackwell Island Lighthouse is on the other end of the island; at the most northern stretch is a 50-foot-tall lighthouse built by prisoners in 1872. It's now on the National Register of Historic Places and is surrounded by a park with fantastic panoramic views. And you can visit the Cornell Tech campus as well. 
+User: Great! How about some good place to eat?
+Rosy: Granny Annies's is an Irish bar and kitchen, and Bread and Butter is a good brunch place. 
+User: Great!! Thanks for your suggestion!
+Rosy: My pleasure. Please rate this service from one to ten. 
+User: Eight.
+Rosy: Thanks for your rating! Hope you have a wonderful trip!
+
+
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+While acting out the dialogue, we found that we could add more features in part2. For instance, reporting weather,  planning the best route for users, or even inputting some funny stories related to Roosevelt Island.
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
@@ -135,7 +158,7 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
 ## Prototype your system
-
+s
 The system should:
 * use the Raspberry Pi 
 * use one or more sensors
