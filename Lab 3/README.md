@@ -3,7 +3,7 @@
 
 Collaborated with: Yi-Ru Pei (yp329@cornell.edu)
 
-First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech; Yi-Ru was responsible for drawing the storyboards.
+First, we brainstorm the main idea and the script together. Second, we acted out the dialogue and asked Jonathan to help us film the video. After finishing the main, Tsung-Yin contributed the code of text to speech and speech to text; Yi-Ru was responsible for drawing the storyboards.
 
 The video was filmed by Jonathan Tan(jmt362@cornell.edu)
 
@@ -188,6 +188,10 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+
+Collaborated with: Yi-Ru Pei (yp329@cornell.edu)
+
+In the part 2, we also brainstorm the additional features for our system and the script together. Second, we asked two participants to interact with our system. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam ; Yi-Ru was responsible for drawing the new storyboards.
 
 **Additional Dialogue: Our system provides weather information for the tourists who want to go to Roosevelt Island**
 
