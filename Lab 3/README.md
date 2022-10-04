@@ -191,7 +191,7 @@ The system should:
 
 **Collaborated with: Yi-Ru Pei (yp329@cornell.edu)**
 
-In the part 2, we also brainstorm the additional features for our system and the script together. Second, we asked two participants to interact with our system. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam; Yi-Ru was responsible for drawing the new storyboards.
+In the part 2, we also brainstorm the additional features for our system and the script together. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam; Yi-Ru was responsible for drawing the new storyboards. And then, we asked two participants to interact with our system. Finally, we discussed what we learned from the two tests and how can we improve this system. 
 
 **Additional Dialogue: Our system provides weather information for the tourists who want to go to Roosevelt Island**
 
