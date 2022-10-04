@@ -189,9 +189,9 @@ The system should:
 
 *Document how the system works*
 
-Collaborated with: Yi-Ru Pei (yp329@cornell.edu)
+**Collaborated with: Yi-Ru Pei (yp329@cornell.edu)**
 
-In the part 2, we also brainstorm the additional features for our system and the script together. Second, we asked two participants to interact with our system. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam ; Yi-Ru was responsible for drawing the new storyboards.
+In the part 2, we also brainstorm the additional features for our system and the script together. Second, we asked two participants to interact with our system. After finishing the brainstorming, Tsung-Yin contributed the code of text to speech and the face detection using webcam; Yi-Ru was responsible for drawing the new storyboards.
 
 **Additional Dialogue: Our system provides weather information for the tourists who want to go to Roosevelt Island**
 
@@ -238,6 +238,7 @@ Rosy: Thanks for your rating! Hope you have a wonderful trip!
 
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/d8b98e56ae66adad719edf84ab4a8e9068ad670c/Lab%203/Face_detect.png" width="700px">
 
+**Test the system**
 
 [**Link to Our Video - Test 1 (Jonathan Tan)**](https://youtu.be/Rdltl_4AmTs)
 
