@@ -189,23 +189,63 @@ The system should:
 
 *Document how the system works*
 
+**Additional Dialogue: Our system provides weather information for the tourists who want to go to Roosevelt Island**
+
+User: Hey, Rosy! Is today a good time to go to Roosevelt Island?
+
+Rosy: The weather is 75 degrees and it is a sunny day. It’s a great time to visit?
+
+User: How to get to the Roosevelt Island?
+
+Rosy: You can get there by Ferry, Subway, Tramway, or Self-drive. Which one do you prefer?
+
+User: I prefer to get there by Ferry.
+
+Rosy: Ferry is a good choice. The view on the ferry is really good. Let me tell you some good places to visit on this island. What do you want to do?
+
+User: I would like to walk around and grab some food.
+
+Rosy: Cornell Tech is a great place with Tata Innovation Center and Bloomberg Center. It owns diverse environment of academics and practitioners who excel at imagining, researching and building digitally-enabled products and services to directly address societal and commercial needs.
+
+User: Wow, It sounds great!! I would like to study there in the future!!
+
+User: How about some good place to eat?
+
+Rosy: You can grab some food and drinks at the cafe.
+
+User: Great! Thanks for the suggestion!
+
+Rosy: My pleasure. Please rate this service from one to ten.
+
+User: Nine.
+
+Rosy: Thanks for your rating! Hope you have a wonderful trip!
+
 
 **Storyboard and diagram**
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_1.jpg" width="700px">
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_2.jpg" width="700px">
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_3.jpg" width="700px">
 
 *Include videos or screencaptures of both the system and the controller.*
 
-[**Link to Our Video - test 1**](https://youtu.be/Rdltl_4AmTs)
+**Face Detection with OpenCV through the webcam**
 
-[**Link to Our Video - test 2**](https://youtu.be/8ghjDCK-Rms)
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/d8b98e56ae66adad719edf84ab4a8e9068ad670c/Lab%203/Face_detect.png" width="700px">
+
+
+[**Link to Our Video - Test 1 (Jonathan Tan)**](https://youtu.be/Rdltl_4AmTs)
+
+[**Link to Our Video - Test 2 (Sylvia Ding)**](https://youtu.be/8ghjDCK-Rms)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
 Our participants:
+
 Jonathan Tan (jmt362@cornell.edu)
+
 Sylvia Ding (sd569@cornell.edu)
 
 Answer the following:
