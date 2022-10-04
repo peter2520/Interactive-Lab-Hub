@@ -189,26 +189,47 @@ The system should:
 
 *Document how the system works*
 
+
+**Storyboard and diagram**
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_1.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_2.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_3.jpg" width="700px">
+
 *Include videos or screencaptures of both the system and the controller.*
+
+[**Link to Our Video - test 1**](https://youtu.be/Rdltl_4AmTs)
+
+[**Link to Our Video - test 2**](https://youtu.be/8ghjDCK-Rms)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+Our participants:
+Jonathan Tan (jmt362@cornell.edu)
+Sylvia Ding (sd569@cornell.edu)
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+The interaction between our Rosy and users worked well. The weather reporting feature and emotion detection feature made our users feel good while using this service. 
+
+Yet, our system did not provide features that can arrange the whole visiting plan for users. Also, our Rosy did not offer an optional choice for users while they were asking about some places to go.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+We had a hard time when switching between the emotion detection interface and VS code, and this made us really hard to combine them together. The rest of our design works pretty well. 
+
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+The first lesson we can take away from the WoZ interaction for designing a more autonomous version of the system is that try our best to improve the experience by making the process more interesting and engaging. For instance, adding more funny stories into our tourist guide scripts. By doing so, we can make the whole experience more fun. 
+
+The second lesson we learn is that different users have different needs, some people prefer visiting a memorial park, and some people might like to walk around the campus. Thus, if we could add some content script for Rosy to read it out for users after they selecting it would be more user-friendly. 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+We could use this system to track all the Roosevelt Island tourists’ choices and emotions. In this way, we can analyze whether some attraction is more popular or more suitable for different people. 
+
+The other sensing modalities we may capture are the body language and heart rate of a user. These two sensing modalities can help us determine the user's emotions better.
 
