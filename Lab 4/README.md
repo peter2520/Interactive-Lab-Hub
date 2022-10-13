@@ -347,9 +347,9 @@ We pick the display design of number guessing as our prototype.
 This design can be used in many place. If it is for playing games, we believe the size should be larger to engage participants. In contrast, if it is for password, we consider the size should be small, so the screen would not be able to be seen by other people.
 
 Cardbord prototype of our design.
-<!-- <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_1.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-1.jpg" width="700px">
 
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_1.jpg" width="700px"> -->
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
 
 
 
