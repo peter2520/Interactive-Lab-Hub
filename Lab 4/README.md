@@ -179,6 +179,27 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 <!-- <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-1.jpg" width="700px"> -->
 
+(1) Door Sensor for Pets
+
+A design for pets to get back home by their own. 
+
+(2) Da Vinci Code
+
+Guess a sepcific number!
+
+(3) Work-Out booster
+
+A design helps counting your work-out amount, especiially for push-up and sit-up.
+
+(4) Volume Adjustment 
+
+An application to adjust volume
+
+(5) A remote control for smart phone holders
+
+A design to adjust the position of smart phone holders
+
+
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
@@ -225,15 +246,27 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+(3) Safe distance detector
+The device will detect whether the surrounding vehicles are too close to itself. If the distance is lower than a safe distacne, the color of the display will turn from green to red and notice the driver.
+
+(4) Brightness sensor for eye care
+THe device will detect the intensity of surrounding light. If the light isn't bright enough, the display screen will ask the user to turn on the light.
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+We pick the display design of number guessing as our prototype.
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+This design can be used in many place. If it is for playing games, we believe the size should be larger to engage participants. In contrast, if it is for password, we consider the size should be small, so the screen would not be able to be seen by other people.
 
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+
+This design can be simply used as a number guessing game or a door lock in daily life. The idea of this design is we use capacitive sensor to let users set their password. And next time they rotate the Rotary Encoder to the number so they can open the lock. While rotating the Rotary Encoder, the display screen will show whether it is correct.
 
 
 LAB PART 2
