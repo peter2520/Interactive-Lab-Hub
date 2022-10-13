@@ -180,24 +180,29 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 (1) Door Sensor for Pets
 
 A design for pets to get back home by their own. 
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_1.jpg" width="700px">
 
 (2) Da Vinci Code
 
 Guess a sepcific number!
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_2.jpg" width="700px">
 
 (3) Work-Out booster
 
 A design helps counting your work-out amount, especiially for push-up and sit-up.
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_3.jpg" width="700px">
 
 (4) Volume Adjustment 
 
 An application to adjust volume
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_4.jpg" width="700px">
 
 (5) A remote control for smart phone holders
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_5.jpg" width="700px">
 
 A design to adjust the position of smart phone holders
@@ -280,31 +285,36 @@ Think about how you want to present the information about what your sensor is se
 (1) Number Counter
 
 A capacitive sensor display screen shows the total amount of the number. 
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_1.jpg" width="700px">
 
 
 
 (2) Remote Volume Controller
 
-An application to adjust volume with a screen display the dynamic status of the volume. 
+An application to adjust volume with a screen display the dynamic status of the volume.
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_2.jpg" width="700px">
 
 
 (3) Safe distance detector
 
 The device will detect whether the surrounding vehicles are too close to itself. If the distance is lower than a safe distacne, the color of the display will turn from green to red and notice the driver.
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_3.jpg" width="700px">
 
 
 (4) Brightness sensor for eye care
 
 THe device will detect the intensity of surrounding light. If the light isn't bright enough, the display screen will ask the user to turn on the light.
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_4.jpg" width="700px">
 
 
 (5) Work-Out booster
 
 A design helps counting your work-out amount, especiially for push-up and sit-up. The display screen will show the accumulated push-up and sit-up counts for users. 
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_5.jpg" width="700px">
 
 
@@ -339,6 +349,7 @@ We have tested the gesture sensor, yet the result was not that precise.
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
 We pick the display design of number guessing as our prototype.
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_protoype.jpg" width="700px">
 
 
@@ -347,6 +358,7 @@ We pick the display design of number guessing as our prototype.
 This design can be used in many place. If it is for playing games, we believe the size should be larger to engage participants. In contrast, if it is for password, we consider the size should be small, so the screen would not be able to be seen by other people.
 
 Cardbord prototype of our design.
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-1.jpg" width="700px">
 
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
