@@ -177,33 +177,64 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
-<!-- <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5ca30dd9cc616178646274c93c4ebabf56047f9d/Lab%203/Lab3-1.jpg" width="700px"> -->
-
 (1) Door Sensor for Pets
 
 A design for pets to get back home by their own. 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_1.jpg" width="700px">
 
 (2) Da Vinci Code
 
 Guess a sepcific number!
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_2.jpg" width="700px">
 
 (3) Work-Out booster
 
 A design helps counting your work-out amount, especiially for push-up and sit-up.
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_3.jpg" width="700px">
 
 (4) Volume Adjustment 
 
 An application to adjust volume
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_4.jpg" width="700px">
 
 (5) A remote control for smart phone holders
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_5.jpg" width="700px">
 
 A design to adjust the position of smart phone holders
 
-
-
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+(1) Door Sensor for Pets
+
+The proximity sensor we tested in Part B was a short-distance one, when a pet tried to get into a house, they might be trapped in the door. 
+
+
+(2) Da Vinci Code
+
+The number is ranging from 1 to 10 in the capacitive sensor, it would be too easy to get the answer.
+
+
+(3) Work-Out booster
+
+Sometimes the sensor is not that accurate. 
+
+
+(4) Volume Adjustment 
+
+A lack of joyful interaction between the design and users. We could add some features such as changing lights or showing different pictures on the display scrren.
+
+
+(5) A remote control for smart phone holders
+
+Same issue in (1). The sensor is a short-distance one, which means there would be a great chance that the sensor can't detect the movement.
+
+
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
+
+A prototype of our work-out counter
+
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/1_prototype.jpg" width="700px">
 
 
 ### Part D
@@ -246,23 +277,81 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+(1) Number Counter
+
+A capacitive sensor display screen shows the total amount of the number. 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_1.jpg" width="700px">
+
+
+
+(2) Remote Volume Controller
+
+An application to adjust volume with a screen display the dynamic status of the volume. 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_2.jpg" width="700px">
+
+
 (3) Safe distance detector
+
 The device will detect whether the surrounding vehicles are too close to itself. If the distance is lower than a safe distacne, the color of the display will turn from green to red and notice the driver.
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_3.jpg" width="700px">
+
 
 (4) Brightness sensor for eye care
+
 THe device will detect the intensity of surrounding light. If the light isn't bright enough, the display screen will ask the user to turn on the light.
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_4.jpg" width="700px">
+
+
+(5) Work-Out booster
+
+A design helps counting your work-out amount, especiially for push-up and sit-up. The display screen will show the accumulated push-up and sit-up counts for users. 
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_5.jpg" width="700px">
+
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+(1) Number Counter
+
+If the users press the button too fast, the sensor might has a hard time getting the value. 
+
+
+(2) Remote Volume Controller
+
+So far so good!
+
+
+(3) Safe distance detector
+
+The given sensor is a short-distance one, which means it might not sense correctly. 
+
+
+(4) Brightness sensor for eye care
+
+The brightness is very subjective to individuals, It was very hard to defined.
+
+
+(5) Work-Out booster
+
+We have tested the gesture sensor, yet the result was not that precise. 
+
+
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
 We pick the display design of number guessing as our prototype.
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/4d8531dd8940b8f168c51ff3e0d679915de8d861/Lab%204/2_protoype.jpg" width="700px">
+
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
 This design can be used in many place. If it is for playing games, we believe the size should be larger to engage participants. In contrast, if it is for password, we consider the size should be small, so the screen would not be able to be seen by other people.
 
-Build a cardbord prototype of your design.
+Cardbord prototype of our design.
+<!-- <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_1.jpg" width="700px">
+
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/5bbe7971c05716ba33df9eb338bd5e019b305d02/Lab%203/Lab3_p2_1.jpg" width="700px"> -->
+
+
 
 **\*\*\*Document your rough prototype.\*\*\***
 
@@ -311,4 +400,3 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
-
