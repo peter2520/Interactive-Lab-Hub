@@ -414,8 +414,8 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Acts like": shows how a person would interact with the device
 
 * __Feedbacks:__
-- Kaya: If the display screen can show the input result while guessing the password would be better. Overall, it's a good design. 
-- Kenny: I love the design, it's very interesting. I would like to have one in my dorm and play the Da Vinci Code game with my roommates. 
+  - Kaya: If the display screen can show the input result while guessing the password would be better. Overall, it's a good design. 
+  - Kenny: I love the design, it's very interesting. I would like to have one in my dorm and play the Da Vinci Code game with my roommates. 
 
 * __"Looks like": shows how the device should look, feel, sit, weigh, etc.__
   - We would like to design a cool interactive device that can act as a door lock and a number guessing game in daily life. 
