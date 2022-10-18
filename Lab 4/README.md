@@ -423,9 +423,10 @@ Document all the prototypes and iterations you have designed and worked on! Agai
   - The look of our design: it looks like a funny box which would be placed at the door or in the living room, its size is 38 cm, 28 cm, 28 cm, weight 315g.  
 
 Here is a sketch of our design:
+
 <img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/832ebef2e84eaa3e646ae2a29f9a4b1b6db04a1f/Lab%204/pp1.jpg" width="700px">
 
-Here are the actul looks of our final design:
+Here are the actual looks of our final design:
 
 Front view:
 
@@ -454,7 +455,7 @@ We use cardboard to make a place holding our Raspberry pi in the back.
     1. One gamer set up a specific number and press the rotate encode to confirm her/his setting
     2. Other gamers can rotate the rotate encoder to input their answers
     3. If they input the correct guessing, the display screen will show "Correct password + (a cute bouncing ball)"
-    4. If they input the wrong gussing, the display screen will show "Wrong password + (without a ball)"
+    4. If they input the wrong guessing, the display screen will show "Wrong password + (without a ball)"
     5. Each gamers has one chance in every round of the game. 
 
 
@@ -462,4 +463,4 @@ We use cardboard to make a place holding our Raspberry pi in the back.
 * __"Acts like": shows how a person would interact with the device__
 
 Here is a demo video that shows how our device acts like:
-[![IMAGE ALT TEXT HERE](https://github.com/peter2520/Interactive-Lab-Hub/blob/832ebef2e84eaa3e646ae2a29f9a4b1b6db04a1f/Lab%204/pp5.jpg)](https://www.youtube.com/watch?v=T4JPxskL7u0)
+[![IMAGE ALT TEXT HERE](https://github.com/peter2520/Interactive-Lab-Hub/blob/37603614d9710c8af7ad0d3524a3d6448c7c8bc7/Lab%204/pp6.jpg)](https://www.youtube.com/watch?v=T4JPxskL7u0)
