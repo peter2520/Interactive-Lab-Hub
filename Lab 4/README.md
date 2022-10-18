@@ -413,7 +413,9 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
-
+* __Feedbacks:__
+- Kaya: If the display screen can show the input result while guessing the password would be better. Overall, it's a good design. 
+- Kenny: I love the design, it's very interesting. I would like to have one in my dorm and play the Da Vinci Code game with my roommates. 
 
 * __"Looks like": shows how the device should look, feel, sit, weigh, etc.__
   - We would like to design a cool interactive device that can act as a door lock and a number guessing game in daily life. 
@@ -421,22 +423,19 @@ Document all the prototypes and iterations you have designed and worked on! Agai
   - The look of our design: it looks like a funny box which would be placed at the door or in the living room, its size is 38 cm, 28 cm, 28 cm, weight 315g.  
 
 Here is a sketch of our design:
-![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d0634110fa04677b94ab137678758c6fdfe379a5/Lab%204/pp1.jpg)
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/832ebef2e84eaa3e646ae2a29f9a4b1b6db04a1f/Lab%204/pp1.jpg" width="700px">
 
 Here are the actul looks of our final design:
 
 Front view:
 
 We used a box as a frame to prototype our device. 
-![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp3.JPG)
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/832ebef2e84eaa3e646ae2a29f9a4b1b6db04a1f/Lab%204/pp3.jpg" width="700px">
 
 Top view:
 
 We use cardboard to make a place holding our Raspberry pi in the back. 
-![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)
-<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/832ebef2e84eaa3e646ae2a29f9a4b1b6db04a1f/Lab%204/pp5.jpg" width="700px">
 
 
 
@@ -463,4 +462,4 @@ We use cardboard to make a place holding our Raspberry pi in the back.
 * __"Acts like": shows how a person would interact with the device__
 
 Here is a demo video that shows how our device acts like:
-[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)](https://youtu.be/olkPlY-2KlY)
+[![IMAGE ALT TEXT HERE](https://github.com/peter2520/Interactive-Lab-Hub/blob/832ebef2e84eaa3e646ae2a29f9a4b1b6db04a1f/Lab%204/pp5.jpg)](https://youtu.be/olkPlY-2KlY)
