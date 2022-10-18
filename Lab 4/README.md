@@ -412,3 +412,55 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
+
+
+
+* __"Looks like": shows how the device should look, feel, sit, weigh, etc.__
+  - We would like to design a cool interactive device that can act as a door lock and a number guessing game in daily life. 
+  - We named our design "Da Vinci Code". 
+  - The look of our design: it looks like a funny box which would be placed at the door or in the living room, its size is 38 cm, 28 cm, 28 cm, weight 315g.  
+
+Here is a sketch of our design:
+![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d0634110fa04677b94ab137678758c6fdfe379a5/Lab%204/pp1.jpg)
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
+
+Here are the actul looks of our final design:
+
+Front view:
+
+We used a box as a frame to prototype our device. 
+![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp3.JPG)
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
+
+Top view:
+
+We use cardboard to make a place holding our Raspberry pi in the back. 
+![This is an Image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)
+<img src="https://github.com/peter2520/Interactive-Lab-Hub/blob/a3a147a1e8a3aa81ac72c0e24d06e131be05280c/Lab%204/cardboard-2.jpg" width="700px">
+
+
+
+
+* __"Works like": shows what the device can do__
+  - Our device can work as a door lock in our daily life
+    1. Set up a password by a user
+    2. Press the rotate encode to confirm your password
+    3. Next time, rotate the rotate encoder to input your password to open the lock
+    4. If you input the correct password, the display screen will show "Correct password + (a cute bouncing ball)"
+    5. If you input the wrong password, the display screen will show "Wrong password + (wihtout a ball)"
+    6. Users can try guessing the password no more than 5 times
+
+
+  - It can also be a number guessing game device
+    1. One gamer set up a specific number and press the rotate encode to confirm her/his setting
+    2. Other gamers can rotate the rotate encoder to input their answers
+    3. If they input the correct guessing, the display screen will show "Correct password + (a cute bouncing ball)"
+    4. If they input the wrong gussing, the display screen will show "Wrong password + (without a ball)"
+    5. Each gamers has one chance in every round of the game. 
+
+
+
+* __"Acts like": shows how a person would interact with the device__
+
+Here is a demo video that shows how our device acts like:
+[![IMAGE ALT TEXT HERE](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/89f5c6c7d6a6dd653efc7c5ff510efc2c9dde09e/Lab%204/pp5.JPG)](https://youtu.be/olkPlY-2KlY)
