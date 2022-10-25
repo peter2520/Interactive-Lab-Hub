@@ -102,6 +102,25 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
 
+1. Contours-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p1.png)
+In this OpenCV example, we considered that this application might work on recognizing people in a specific area. For instance, we can use this application when we have to limit the number of participants in a space.  
+
+
+2. Face-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p2.png)
+In the face-detection example, we came up with an idea that we can use this application to detect facial expressions on customers' faces to improve satisfaction in a virtual video customer service. 
+
+
+3. Flow-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p3.png)
+In the Flow-detection part, we would like to apply this feature to track the speeding vehicles on campus. 
+
+
+4. Object-detection
+![This is an image](https://github.com/Peggypei98/Interactive-Lab-Hub/blob/d4fadd0a4ca29cd55da79cbe2f3fe960df814521/Lab%205/p4.png)
+In the object-detection session, we believe people can use this application in their home security system. By using this application, we can distinguish kids and pets from strangers and detect weird strangers more precisely.
+
 #### Filtering, FFTs, and Time Series data. 
 Additional filtering and analysis can be done on the sensors that were provided in the kit. For example, running a Fast Fourier Transform over the IMU or Microphone data stream could create a simple activity classifier between walking, running, and standing.
 
@@ -232,31 +251,89 @@ This might take a while to get fully installed. After installation, connect your
 ### Part C
 ### Test the interaction prototype
 
-Now flight test your interactive prototype and **note down your observations**:
-For example:
-1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+Now flight test your interactive prototype and note down your observations: For example:
 
-**\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
+1. When does it what it is supposed to do?
+
+It supposed to detect and count people when people get into a room.
+
+2. When does it fail?
+
+When there are too many people.
+
+3. When it fails, why does it fail?
+
+The device might not correctly detect and count the people if there are too many people overlap in the screen.
+
+4. Based on the behavior you have seen, what other scenarios could cause problems?
+
+If there is not enough light, the detection might be also failed.
+People may not notice or care about the alert of the system. When the camera cannot cover all space in a room, people outside of the camera cannot be detected.
+
+***Think about someone using the system. Describe how you think this will work.***
 1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+
+They might be aware of the uncertainties when the counting number isn’t stable.
+
+2. How bad would they be impacted by a miss classification?
+
+The device might get delay and miss classification which will cause them feeling the systems isn’t precise.
+
+3. How could change your interactive system to address this?
+
+Use better camera or other sensors to get more accurate detection.
+
+4. Are there optimizations you can try to do on your sense-making algorithm.
+
+We can train a more efficient and accurate model for detecting people under different environment.
 
 ### Part D
+
 ### Characterize your own Observant system
 
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
-* What can you use X for?
-* What is a good environment for X?
-* What is a bad environment for X?
-* When will X break?
-* When it breaks how will X break?
-* What are other properties/behaviors of X?
-* How does X feel?
+
+- What can you use X for?
+- What is a good environment for X?
+- What is a bad environment for X?
+- When will X break?
+- When it breaks how will X break?
+- What are other properties/behaviors of X?
+- How does X feel?
+
+**Include a short video demonstrating the answers to these questions.**
+
+What can you use X for?
+
+This system can be used for controling the population in a limited space. This can be used to control the number of people  when people are having a party. Through this system it can easy manage and identify who is in the room and how many people are in the room.
+
+
+What is a good environment for X?
+
+An environment with simple background and bright light conditions will be a good environment for our system.
+
+
+- What is a bad environment for X?
+
+A bad environment where the system is in a dark environment with crowded people then it will be bad environment for our system.
+
+- When will X break?
+
+1. In any of the bad environments above happened the system may break.
+2. When the system is subjected to human damage because the system has installed the lens.
+
+- When it breaks how will X break?
+
+The g system will break either by detecting to many people at the same time.
+
+- What are other properties/behaviors of X?
+
+The system will play alerted sound to remind people in the space when the people in the space exceed the limit.
+
+- How does X feel?
+
+I think it's a great device that can be used in every place. It can help people to detect the population limit in the room.
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
