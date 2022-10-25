@@ -338,11 +338,13 @@ During the lecture, we mentioned questions to help characterize a material:
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
 Here is a screenshot of our design while detecting a perosn walk into the room, the display screen would show the connt of people in the room:
-![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/6e64d40dc0370fbda8073ddfb9200b88cbe03a95/Lab%205/6.png
-)
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/6e64d40dc0370fbda8073ddfb9200b88cbe03a95/Lab%205/6.png)
 
 Here is a demo video of our design:
-[![IMAGE ALT TEXT HERE](https://github.com/peter2520/Interactive-Lab-Hub/blob/6e64d40dc0370fbda8073ddfb9200b88cbe03a95/Lab%205/6.png)
+[![IMAGE ALT TEXT HERE](https://github.com/peter2520/Interactive-Lab-Hub/blob/6e64d40dc0370fbda8073ddfb9200b88cbe03a95/Lab%205/6.png)](https://youtu.be/lS9Zr6WNqlw)
+
+
+
 
 
 ### Part 2.
