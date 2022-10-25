@@ -248,6 +248,9 @@ This might take a while to get fully installed. After installation, connect your
 
 We would like to use OpenCV object-detection to count the number of people in a room or a selected space. 
 
+Here is our Contextual Interaction Design Tool sheet:
+![THis is an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/e682674d9930426117391db8f63e8a24365fde9d/Lab%205/Contextual%20Interaction%20Design%20Tool.png)
+
 Our prototype sketch:
 ![THis is an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/d87be9a9f313f11e17000ca952f1eabb8ee68a05/Lab%205/5.png)
 
