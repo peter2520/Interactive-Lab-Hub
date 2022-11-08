@@ -1,5 +1,7 @@
 # Little Interactions Everywhere
 
+**NAMES OF COLLABORATORS HERE**
+
 Alan Hsieh (amh425) - Developed scripting code to MQTT device integration.
 
 Tsung-Yin Hsieh (th542) - Ideated design for visualizer interface and co-developed sketches for protyping and interaction.
@@ -106,13 +108,23 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 1. We design a covid 19 application to detect whether people have been exposed to covid infected people and use IoT to prevent cluster infection
 
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_p1.jpg)
+
 2. Use IoT sensors to measure water humidity to know if plants need to be watered
+
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_p2.jpg)
 
 3. We use captive sensors to detect and inform patients which Department they are going to work in.
 
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_p3.jpg)
+
 4. We design the Traffic flow sensor by using the MQTT explorer to detect the traffic jam situation. To, adjust the traffic light to control the traffic flow in a specific line.
 
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_p4.jpg)
+
 5. We use sensors to automatically detect the brightness of the room and automatically adjust the brightness of the room at different times of the day
+
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_p5.jpg)
 
 
 ### Part C
@@ -135,12 +147,26 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
  ```
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
-![1245080](https://user-images.githubusercontent.com/6706384/200462129-152636c4-7bf5-46d1-aaea-06b5139f3600.jpg)
-![twizzer](https://user-images.githubusercontent.com/6706384/200461716-617e8664-2cb5-4d3a-9f4f-04a91c26f39d.png)
+
+Here is a picture of how we setup the device:
+
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_test.jpg)
+
+Here is a screenshot of what we see on the MQTT Explorer:
+
+We saw the MQTT Explorer show the number of twizzler touched.
+
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_twizzler.png)
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
-![proximity](https://user-images.githubusercontent.com/6706384/200461792-ee87f2b6-9f81-4076-a92e-39fa0089a080.png)
 
+We want to test the proximity sensor and show on MQTT Explorer.
+
+Here is a screenshot of what we see on the MQTT Explorer:
+
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_dist.png)
+
+[**Link to our Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/6ae55c7fd85b3d49b550274d857b798bf23c0ed6/Lab%203/tts_demo.sh)
 
 ### Part D
 ### The One True ColorNet
