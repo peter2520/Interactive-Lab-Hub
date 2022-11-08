@@ -166,7 +166,7 @@ Here is a screenshot of what we see on the MQTT Explorer:
 
 ![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_dist.png)
 
-[**Link to our Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/test_with_distance.py)
+[**Here is the Link to our Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/test_with_distance.py)
 
 ### Part D
 ### The One True ColorNet
@@ -228,7 +228,7 @@ See video below for prototype in action. As far as the user interface goes, we a
 
 Currently the interface being demonstrated shows the raw interface with the MQTT explorer as a working prototype.
 
-<img width="1123" alt="Screen Shot 2022-11-07 at 9 37 13 PM" src="https://user-images.githubusercontent.com/6706384/200461425-a2e1e302-3183-4208-9b62-213fdda56eb6.png">
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/0cb27ad889b8edc7121bde591be6b1d9defa1420/Lab%206/L6_dashboard.png)
 
 In this proposed dashboard we are utilizing Django, and PostgreSQL to manage the MQTT message database and deliver a web format dashboard.
 
@@ -236,5 +236,6 @@ In the above illustration, we show the status using red/green nogo/go indication
 
 ***4. Document the working prototype in use.*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
+[**Here is the Link to the video of our prototype**](https://youtu.be/c4wwQdWHIvI)
 
-https://youtu.be/c4wwQdWHIvI
+[**Here is the Link to our Code for this demo**](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/test_with_distance.py)
