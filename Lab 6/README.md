@@ -204,11 +204,12 @@ Yes, we can. Here is the image of our result.
 ![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/L6_color1.jpg)
 ![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/L6_color2.jpg)
 
-Here is the video of how color change;
+Here is the video of how color change:
+
 https://user-images.githubusercontent.com/6706384/200462211-671ca72f-6d7d-4ffa-84a3-3dba976c1b9a.mp4
 
-### Part E
 
+### Part E
 
 ### Make it your own
 
@@ -238,4 +239,4 @@ In the above illustration, we show the status using red/green nogo/go indication
 
 [**Here is the Link to the video of our prototype**](https://youtu.be/c4wwQdWHIvI)
 
-[**Here is the Link to our Code for this demo**](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/test_with_distance.py)
+[**Here is the Link to our Code for this demo**](https://github.com/peter2520/Interactive-Lab-Hub/blob/6945121a0d7afcc86c95fc0fa248e73250bb4f4d/Lab%206/twizzlers_sender_hospital_demo.py)
