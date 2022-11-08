@@ -166,7 +166,7 @@ Here is a screenshot of what we see on the MQTT Explorer:
 
 ![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/1a0ab7f70a9c39f7dd9b1e3beb6463cde9148365/Lab%206/L6_dist.png)
 
-[**Link to our Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/6ae55c7fd85b3d49b550274d857b798bf23c0ed6/Lab%203/tts_demo.sh)
+[**Link to our Code**](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/test_with_distance.py)
 
 ### Part D
 ### The One True ColorNet
@@ -198,8 +198,13 @@ You may ask "but what if I missed class?" Am I not admitted into the collective 
 Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-true-colornet.glitch.me/) and become one with the ColorNet on the inter-webs. Glitch is a great tool for prototyping sites, interfaces and web-apps that's worth taking some time to get familiar with if you have a chance. Its not super pertinent for the class but good to know either way. 
 
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
-![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/6e64d40dc0370fbda8073ddfb9200b88cbe03a95/Lab%205/6.png)
-![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/6e64d40dc0370fbda8073ddfb9200b88cbe03a95/Lab%205/6.png)
+
+Yes, we can. Here is the image of our result.
+
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/L6_color1.jpg)
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/L6_color2.jpg)
+
+Here is the video of how color change;
 https://user-images.githubusercontent.com/6706384/200462211-671ca72f-6d7d-4ffa-84a3-3dba976c1b9a.mp4
 
 ### Part E
@@ -215,7 +220,7 @@ In this lab, we developed an MQTT status updator that can interface with multipl
 
 ***2. Diagram the architecture of the system.*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
-![36244192-A099-4CE7-A09D-2BD7B1B5090F](https://user-images.githubusercontent.com/6706384/200461451-7cde8891-7f8a-433d-9a55-30771ef6f86f.jpg)
+![This an image](https://github.com/peter2520/Interactive-Lab-Hub/blob/288f1a860db314553ab8820ddd44b6fed9a0f922/Lab%206/L6_Hospital.jpg)
 
 ***3. Build a working prototype of the system.*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
@@ -230,5 +235,6 @@ In this proposed dashboard we are utilizing Django, and PostgreSQL to manage the
 In the above illustration, we show the status using red/green nogo/go indication, with queue represented by the blue squares below.  We also show that this is a personalized chart for the equipment Dr. Wang is most interested in viewing, and that she may logout and switch users if she chooses.
 
 ***4. Document the working prototype in use.*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+
 
 https://youtu.be/c4wwQdWHIvI
