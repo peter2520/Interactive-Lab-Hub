@@ -159,12 +159,15 @@ Write-up and documentation due - December 12
     We discussed the features and how to implement our systems together in the beginning, and we built different features separately. At last, we integrated our features into on system with MQTT and completed the final writeup of this project.
     
     Alan Hsieh - amh425
+    
     Eyes animation for the Christmas tree, MQTT receive and send, Final writeup
     
     Henry Wu - hw574
+    
     Dance and Age detection for the Christmas tree, MQTT receive and send, Final writeup
     
     Tsung-Yin Hsieh - th542
+    
     Color animation of LED Strip for the Christmas tree, MQTT receive and send, Final writeup
 
 ## Change of Design
